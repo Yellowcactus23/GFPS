@@ -12,7 +12,11 @@ the two of you are pointed out.
 This repo is quite lightweight, just needing pandas and its dependencies. a virtual environment may not be necessary. 
 
 ```bash
+# clone repo and change to directory
+git remote set-url origin https://github.com/Yellowcactus23/GFPS.git
+cd GFPS/
 
+# set up virtual environment
 python -m venv venv
 
 source venv/Scripts/activate
@@ -25,7 +29,6 @@ pip install -r requirements.txt
 From here simply run: 
 
 ```bash
-cd GFPS/
 python bin/gfps.py
 ```
 
