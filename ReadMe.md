@@ -2,7 +2,7 @@
 
 This repo contains an algorithm to assess whether or not a girl is worth pursuing. This
 scale is based on looks, personally traits, and red flags. There is a self evaluation,
-an initial evaluation that can be updated, and a relationship specific evaluation. 
+an initial evaluation that can be updated, and a relationship specific evaluation (v0.0.1 just has the girlfriend evaluation feature). 
 
 The person is then ranked based on their own personality traits, and difficiencies between
 the two of you are pointed out.
@@ -41,7 +41,4 @@ You will be prompted to:
 
 Params can be edited in the `data/score_params.json` folder. The ranking params are 
 based on relative percentages and are meant to be fixed. 
-
-
-
 
