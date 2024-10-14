@@ -1,0 +1,26 @@
+{
+  "initial": {
+    "looks": 10,
+    "smarts": 3,
+    "hobbies": 3,
+    "religion": 3,
+    "sleep": 3,
+    "food": 3,
+    "selfCare": 3,
+    "politics": 3,
+    "finances": 3,
+    "fitness": 5,
+    "family": 5,
+    "lowBodyCount": 5,
+    "noSubstances": 5,
+    "noMedications": 5,
+    "gutFeeling": 5
+  },
+  "relationship": {
+    "intiatesEvents": 3,
+    "emotionalIntelligence": 3,
+    "effort": 3,
+    "trust": 3,
+    "honkyTonk": 3
+  }
+}
