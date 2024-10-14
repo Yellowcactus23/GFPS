@@ -9,7 +9,7 @@ the two of you are pointed out.
 
 ## setup
 
-This repo is quite lightweight, just needing pandas and its dependencies.
+This repo is quite lightweight, just needing pandas and its dependencies. a virtual environment may not be necessary. 
 
 ```bash
 
